@@ -10,6 +10,7 @@ public class test {
 		personlist.add(new Persona("0" , "riccardo" , "trivellato" , "1234" , "xtrive005"));
 		personlist.add(new Persona("0" , "riccardo" , "trivellato" , "1234" , "xtrive006"));
 		personlist.SaveOnFile();
+		System.out.println("ciao");
 	}
 
 }
